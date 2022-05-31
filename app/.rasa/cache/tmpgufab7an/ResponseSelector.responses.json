@@ -1,0 +1,22 @@
+{
+  "utter_faq/ask_support": [
+    {
+      "text": "PM-KUSUM Scheme supports three different kind of installations, known as three components of the Scheme as given below:\n1) Component-A: Setting up of decentralized ground/ stilt mounted grid connected solar or other renewable energy based power plants up to 2 MW capacity.\n2) Component-B: Installation of stand-alone solar agriculture pumps of capacity up to 7.5.\n3) Component-C: Solarisation of existing grid connected agriculture pumps of capacity up to 7.5 HP."
+    }
+  ],
+  "utter_faq/ask_component_1": [
+    {
+      "text": "Under this component, solar or other renewable energy based power plants of capacity 500 kW to 2 MW can be installed on barren or uncultivable agriculture land mainly. Agriculture land is also permitted under this scheme provided that solar plants are installed in slit fashion (i.e. raised structure for installation of solar panels) and with adequate spacing between panel rows for ensuring that farming activity is not affected."
+    }
+  ],
+  "utter_faq/ask_component_2": [
+    {
+      "text": "Under this Component, farmers can replace their existing diesel poweredagriculture pumps with standalone solar pumpsof capacity up to 7.5 HP in off-grid areas. Pumps of capacity higher than 7.5 HP may be allowed, however, the central subsidy will be limited to the subsidy applicable for pump of 7.5 HP."
+    }
+  ],
+  "utter_faq/ask_component_3": [
+    {
+      "text": "Under this Component, farmers can solarize their existing grid connected agriculture pumps of capacity up to 7.5 HP. Solar PV capacity up to two times of pump capacity in kW is allowed under the scheme.However, States may choose to allow lower solar PV capacity, which in no case will be less than pump capacity in HP. The farmer will be able to use the generated solar power to meet the irrigation needs and the excess solar power will be sold to DISCOMs."
+    }
+  ]
+}
